@@ -1,0 +1,4 @@
+# Intentionally no funding entries.
+# This is a fork of an upstream project; suppress the Sponsor button so it does
+# not advertise @99ecarvalho's sponsorship. Overrides the account-wide default
+# in 99ecarvalho/.github.
